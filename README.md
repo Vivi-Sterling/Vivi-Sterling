@@ -1,16 +1,25 @@
-## Hi there 👋
+# Vivienne Sterling-Thorne
 
-<!--
-**Vivi-Sterling/Vivi-Sterling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Appalachian noir. Horror. Romance. Drama.**
 
-Here are some ideas to get you started:
+Where ink bleeds into danger and silence speaks louder than screams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## The Work
+
+Stories that pour out because they *have* to. Characters caught between what they can't say and what they can't forget. Narratives built to hit you twice—once in the moment, once when you go back and see what you missed.
+
+Four manuscripts complete. Three in progress. And a collection of sketches that refuse to be ignored.
+
+This is not soft. This is not safe. This is the space between bookshelves where rare things live.
+
+---
+
+## [Between-Bookshelves](https://github.com/Vivi-Sterling/Between-Bookshelves)
+
+The vault. The repository of stories. Come find what finds you.
+
+---
+
+*Diamond gleams, warm breezes, and a smile from deep within my soul.*
